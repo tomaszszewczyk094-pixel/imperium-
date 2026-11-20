@@ -80,7 +80,3 @@ APK debug: `app/build/outputs/apk/debug/app-debug.apk`.
 
 ### Budowanie przez GitHub Actions
 W repozytorium znajduje się workflow `.github/workflows/build-apk.yml`. Po wypchnięciu projektu do repozytorium GitHub lub ręcznym uruchomieniu workflow `Build IMPERIUM Android APK`, artefakt `imperium-debug-apk` będzie dostępny do pobrania w zakładce Actions.
-
-
-## Finalny proces instalacji i testów
-Szczegółowa instrukcja uruchomienia serwera w Railway, budowania APK w GitHub Actions, instalacji na telefonie i lista testów odbiorczych znajduje się w `FINALIZACJA_ANDROID_PL.md`. Serwer zapisuje dane w `DATA_DIR` (w Dockerze `/data`), dlatego do hostingu należy podłączyć trwały wolumen dokładnie pod `/data`.
