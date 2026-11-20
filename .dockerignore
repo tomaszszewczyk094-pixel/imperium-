@@ -1,0 +1,6 @@
+**/.gradle
+**/build
+.git
+*.zip
+QA_REPORT_PL.md
+INSTALACJA_I_TESTY_ANDROID_PL.md

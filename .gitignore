@@ -1,0 +1,13 @@
+.gradle/
+build/
+app/build/
+server/node_modules/
+server/accounts.json
+server/characters.json
+server/guilds.json
+server/houses.json
+server/mail.json
+server/market.json
+*.jks
+*.keystore
+local.properties

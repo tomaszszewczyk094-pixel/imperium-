@@ -1,0 +1,5 @@
+IMPERIUM 7.6 — Android Edition
+Kierunek graficzny: klasyczna, czytelna grafika 2D z góry, pikselowa estetyka retro; lekko odświeżone UI w stylu starych MMORPG.
+Aplikacja jest przeznaczona wyłącznie na Androida i uruchamia klienta lokalnie w WebView. Serwer multiplayer działa osobno.
+Grafika miasta znajduje się w app/src/main/assets/imperium-town.png.
+Budowanie APK: Android Studio > Build > Build APK(s).
